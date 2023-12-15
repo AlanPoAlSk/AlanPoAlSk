@@ -3,7 +3,7 @@
 👋 Hi, I’m @AlanPoAlSk
 
 - 👀 I’m currently enrolled in a coding bootcamp, learning Python, MERN , Java, and C# stacks.
-- 🌱 I’m excited about mastering full-stack development and exploring the diverse capabilities of all the previous technologies.
+- 🌱 I’m excited about mastering full-stack development and exploring the diverse capabilities of all the aforementioned technologies.
 - 💞️ I’m looking forward to collaborating on projects that encompass web development, applications, or software solutions using these languages and stacks.
 - 📫 How to reach me: Feel free to connect on LinkedIn (https://www.linkedin.com/in/alan-skrzecz/).
 
